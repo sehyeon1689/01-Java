@@ -1,8 +1,11 @@
 package edu.kh.variable;
 
 public class VariableExample2 {
-
+	//---저장용 변경상항--------
 	public static void main(String[] args) {
+		
+		
+		 
 		
 		/*자바의 가본 자료형 8가지
 		 * 
